@@ -1,0 +1,18 @@
+.banner-heading{
+    font-size: 75px;
+    font-weight: 900;
+}
+body {
+    font-family: 'Lato', sans-serif;
+}
+.course-icon{
+    width: 70px;
+  height: 70px;
+}
+.course-icon-sm{
+    width: 55px;
+  height: 55px;
+}
+.img-icon{
+    width: 55px;
+}
